@@ -1,5 +1,5 @@
 ### Download
-📥 Download the BOT-CHAT apk <a href="https://github.com/imon-400/Bot-app/raw/main/downloader.apk">Download</a>.
+📥 Download the BOT-CHAT apk <a href="https://github.com/imon-400/downloader-app/raw/main/downloader.apk">Download</a>.
 <br>
 <br>
 
