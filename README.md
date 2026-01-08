@@ -10,7 +10,7 @@
 <img title="DH-Hackbar" src="https://raw.githubusercontent.com/imon-400/downloader-app/main/Screenshot_20260108-151121.png">
 </a>
 </p>
-<b><u>Disclaimer:</u></b> This App Is Video All Type Downloader. This AAppMade By Mohammad Nayan
+<b><u>Disclaimer:</u></b> This App Is Video All Type Downloader. This App Made By Mohammad Imon
 </p>
 <br>
 
@@ -19,7 +19,7 @@
 facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, capcut, likee, threads
 ```
 ### Download
-📥 Download the N-Downloader apk <a href="https://github.com/imon-400/downloader-app/raw/main/downloader.apk">Download</a>.
+📥 Download the imon-media-Downloader apk <a href="https://github.com/imon-400/downloader-app/raw/main/downloader.apk">Download</a>.
 <br>
 <br>
 
