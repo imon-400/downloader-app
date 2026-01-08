@@ -1,10 +1,6 @@
 # imon-media-Downloader
 
-<p align="center">
-  <a href="https://github.com/imon-400/downloader-app">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimon-400%2Fdownloader-app&title=Visitors&edge_flat=false" alt="Visitors">
-  </a>
-</p>
+
 
 
 <p>
