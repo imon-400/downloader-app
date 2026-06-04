@@ -27,5 +27,5 @@ facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, capcut, likee,
 <br>
 
 ### Developers
-- [**Mohammad Nayan**](https://www.facebook.com/Imon.132233)
+- [**Mohammad Imon**](https://www.facebook.com/Imon.132233)
 <br>
